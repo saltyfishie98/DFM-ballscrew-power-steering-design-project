@@ -1,0 +1,90 @@
+﻿Study Static Analysis:1 started: 25/10/2020, 5:44:06 PM
+Number of configurations: 1
+Default mesh: 1449596 elements, 2175248 nodes
+Model separates into 118 independent components
+Study Static Analysis:1 finished: 25/10/2020, 7:22:26 PM
+Total time 1:38:20
+
+Study Static Analysis:1 started: 25/10/2020, 7:24:10 PM
+Number of configurations: 1
+Default mesh: 1449596 elements, 2175248 nodes
+Study Static Analysis:1 finished: 25/10/2020, 7:39:54 PM
+Total time 0:15:44
+
+Study Static Analysis:1 started: 25/10/2020, 7:40:23 PM
+Number of configurations: 1
+Default mesh: 1449596 elements, 2175248 nodes
+Model separates into 118 independent components
+Study Static Analysis:1 finished: 25/10/2020, 9:02:04 PM
+Total time 1:21:41
+
+Study Static Analysis:1 started: 25/10/2020, 9:03:13 PM
+Number of configurations: 1
+Default mesh: 1449596 elements, 2175248 nodes
+Study Static Analysis:1 finished: 25/10/2020, 9:06:20 PM
+Total time 0:03:07
+
+Study Static Analysis:1 started: 25/10/2020, 9:56:23 PM
+Number of configurations: 1
+Default mesh: 1434497 elements, 2146051 nodes
+Study Static Analysis:1 finished: 25/10/2020, 10:13:53 PM
+Total time 0:17:30
+
+Study Static Analysis:1 started: 25/10/2020, 10:23:55 PM
+Number of configurations: 1
+Default mesh: 1380389 elements, 2054423 nodes
+Study Static Analysis:1 finished: 25/10/2020, 10:38:36 PM
+Total time 0:14:41
+
+Study Static Analysis:1 started: 25/10/2020, 10:46:49 PM
+Number of configurations: 1
+Default mesh: 180934 elements, 272383 nodes
+Model separates into 5 independent components
+Soft spring was added
+Solution time 1.01e+03s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 25/10/2020, 11:03:43 PM
+Total time 0:16:54
+
+Study Static Analysis:1 started: 25/10/2020, 11:07:52 PM
+Number of configurations: 1
+Default mesh: 180934 elements, 272383 nodes
+Model separates into 5 independent components
+Solution time 436s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 25/10/2020, 11:15:13 PM
+Total time 0:07:21
+
+Study Static Analysis:1 started: 25/10/2020, 11:19:12 PM
+Number of configurations: 1
+Default mesh: 180934 elements, 272383 nodes
+Study Static Analysis:1 finished: 25/10/2020, 11:19:31 PM
+Total time 0:00:19
+
+Study Static Analysis:1 started: 25/10/2020, 11:20:55 PM
+Number of configurations: 1
+Default mesh: 180934 elements, 272383 nodes
+Model separates into 5 independent components
+Soft spring was added
+Solution time 853s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 25/10/2020, 11:35:17 PM
+Total time 0:14:22
+
+Study Static Analysis:1 started: 25/10/2020, 11:50:05 PM
+Number of configurations: 1
+Default mesh: 227920 elements, 366663 nodes
+Mesh at contact 108 is too coarse
+Mesh at contact 110 is too coarse
+Model separates into 5 independent components
+Soft spring was added
+Soft spring was added
+Solution time 200s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 25/10/2020, 11:53:30 PM
+Total time 0:03:25
+

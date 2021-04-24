@@ -1,0 +1,192 @@
+<Presets Version="1">
+  <Preset Name="ISO Metric profile_8_M8x1.25_6H_Left Hand_12 mm_0 mm" ID="2b5d20d6-5b34-465e-b4ad-5bfab08de29f" MruTime="2020-10-18 02:25:26" MrmTime="2020-10-18 02:25:26">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_LEFTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="12 mm" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ANSI Metric M Profile_8_M8x1.25_6H_Left Hand_10_0 mm" ID="5bff871c-0f60-4780-a104-a16c995cc38d" MruTime="2020-10-18 04:43:29" MrmTime="2020-10-18 04:43:29">
+    <IDC_THREAD_FAMILY_TYPE Value="ANSI Metric M Profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_LEFTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="10 mm" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_8_M8x1.25_6H_Left Hand_10 mm_0 mm" ID="525aee3e-b725-45b6-b880-56621efbe28e" MruTime="2020-10-18 04:43:44" MrmTime="2020-10-18 04:43:44">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_LEFTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="10 mm" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_6_M6x1_6H_Left Hand_10 mm_0 mm" ID="97e2054b-a0bf-45dc-ba64-862f15a9fd67" MruTime="2020-10-18 05:08:30" MrmTime="2020-10-18 05:08:30">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="6" />
+    <IDC_THREAD_PITCH_EDIT Value="M6x1" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_LEFTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="10 mm" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_8_M8x1.25_6g_Right Hand_GEL_0 mm" ID="621ee068-1a62-4294-ab6f-5105d59719ce" MruTime="2020-10-18 21:19:46" MrmTime="2020-10-18 21:19:46">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="GEL" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_45_M45x1_6g_Right Hand_(130.000 mm)" ID="f86b1498-5c6d-4f93-be93-1147f896a909" MruTime="2020-10-19 03:33:12" MrmTime="2020-10-19 03:33:12">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="45" />
+    <IDC_THREAD_PITCH_EDIT Value="M45x1" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 130.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_8_M8x1.25_6g_Right Hand_GEL_0 mm(1)" ID="7958b8ed-0ea1-46fe-9373-b68644749290" MruTime="2020-10-19 03:37:37" MrmTime="2020-10-19 03:37:37">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="GEL" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_8_M8x1.25_6H_Right Hand_GEL_0 mm" ID="1a364770-9901-4d87-8168-108c108f50a0" MruTime="2020-10-19 03:38:22" MrmTime="2020-10-19 03:38:22">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="GEL" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_8_M8x1.25_6H_Right Hand_(12.000 mm)" ID="245676ab-3445-418c-b0cc-66c2484f4525" MruTime="2020-10-19 03:38:26" MrmTime="2020-10-19 03:38:26">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="8" />
+    <IDC_THREAD_PITCH_EDIT Value="M8x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 12.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_14_M14x1.5_6g_Right Hand_(29.527 mm)" ID="8f8e2315-5ee5-4896-bc92-6917b42e2a42" MruTime="2020-10-19 03:42:53" MrmTime="2020-10-19 03:42:53">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="14" />
+    <IDC_THREAD_PITCH_EDIT Value="M14x1.5" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 29.527 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ANSI Metric M Profile_27_M27x1.5_6g_Right Hand_(15.000 mm)" ID="4ced7316-40b9-47e1-88b0-1ae1c1800fc8" MruTime="2020-10-19 03:51:06" MrmTime="2020-10-19 03:51:06">
+    <IDC_THREAD_FAMILY_TYPE Value="ANSI Metric M Profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="27" />
+    <IDC_THREAD_PITCH_EDIT Value="M27x1.5" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 15.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ANSI Metric M Profile_12_M12x1.25_6g_Right Hand_(35.000 mm)" ID="23fdee84-aa6c-4e4e-b73c-dc89f1d14e6a" MruTime="2020-10-19 04:01:58" MrmTime="2020-10-19 04:01:58">
+    <IDC_THREAD_FAMILY_TYPE Value="ANSI Metric M Profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="12" />
+    <IDC_THREAD_PITCH_EDIT Value="M12x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 35.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_12_M12x1.25_6g_Right Hand_(35.000 mm)" ID="ea668610-5ecb-4326-97e8-62a4037840d2" MruTime="2020-10-19 04:02:40" MrmTime="2020-10-19 04:02:40">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="12" />
+    <IDC_THREAD_PITCH_EDIT Value="M12x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 35.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_12_M12x1.25_6H_Right Hand_(12.200 mm)" ID="a84beb3a-0ae4-48db-94fe-a4f5961372af" MruTime="2020-10-19 04:13:43" MrmTime="2020-10-19 04:13:43">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="12" />
+    <IDC_THREAD_PITCH_EDIT Value="M12x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 12.200 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_12_M12x1.25_6g_Right Hand_(35.000 mm)(1)" ID="9f4b9b85-6e79-4b5c-9aca-e9c4efa35f1f" MruTime="2020-10-19 04:13:59" MrmTime="2020-10-19 04:13:59">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="12" />
+    <IDC_THREAD_PITCH_EDIT Value="M12x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 35.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_45_M45x1_6g_Right Hand_(130.000 mm)(1)" ID="840be0f4-4aa0-46f9-9f23-9bbf3425845b" MruTime="2020-10-19 04:16:14" MrmTime="2020-10-19 04:16:14">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="45" />
+    <IDC_THREAD_PITCH_EDIT Value="M45x1" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 130.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_6_M6x1_6H_Right Hand_10 mm_0 mm" ID="234e5fd1-ca0b-4ef5-8534-491f205f6694" MruTime="2020-10-22 11:31:40" MrmTime="2020-10-22 11:31:40">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="6" />
+    <IDC_THREAD_PITCH_EDIT Value="M6x1" />
+    <IDC_THREAD_CLASS_EDIT Value="6H" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="10 mm" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="False" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_48_M48x1.5_6g_Right Hand_(130.000 mm)" ID="6fb94400-a15d-4e11-bdb3-7da14fbb3fd1" MruTime="2020-10-23 15:34:21" MrmTime="2020-10-23 15:34:21">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="48" />
+    <IDC_THREAD_PITCH_EDIT Value="M48x1.5" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 130.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+  <Preset Name="ISO Metric profile_12_M12x1.25_6g_Right Hand_(35.000 mm)(2)" ID="44aba23e-fabb-4106-b381-a7123abfdf55" MruTime="2020-11-08 07:30:55" MrmTime="2020-11-08 07:30:55">
+    <IDC_THREAD_FAMILY_TYPE Value="ISO Metric profile" />
+    <IDC_THREAD_NOMINAL_SIZE_EDIT Value="12" />
+    <IDC_THREAD_PITCH_EDIT Value="M12x1.25" />
+    <IDC_THREAD_CLASS_EDIT Value="6g" />
+    <DIRECTION_TYPE_SELECTOR Value="IDC_THREAD_RIGHTHAND_BTN" />
+    <IDC_THREAD_LENGTH_EDIT Value="( 35.000 mm )" />
+    <IDC_THREAD_FULLLENGTH_BTN Value="True" />
+    <IDC_THREAD_DISPLAYINMODEL_BTN Value="True" />
+  </Preset>
+</Presets>
